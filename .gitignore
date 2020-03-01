@@ -80,3 +80,5 @@ target/classes/Treinamento-2.pptx
 .idea/vcs.xml
 
 jpaexample.iml
+
+.idea/compiler.xml

@@ -1,6 +1,6 @@
 package com.stefanini.service;
 
-import com.stefanini.dao.pessoa.PessoaDao;
+import com.stefanini.dao.entitydao.PessoaDao;
 import com.stefanini.model.Pessoa;
 import com.stefanini.util.IGenericService;
 

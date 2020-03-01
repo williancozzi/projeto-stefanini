@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jpaexample" />
+        <module name="projeto-base-jpa-cdi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jpaexample" target="1.8" />
+      <module name="projeto-base-jpa-cdi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
